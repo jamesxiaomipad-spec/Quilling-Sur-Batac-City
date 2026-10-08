@@ -1,0 +1,6 @@
+{
+  "name": "Quiling Sur Hub: Batac & MMSU Guide",
+  "description": "Android-style community app for Quiling Sur, Batac City: real-time updates, transport guide, tourism, MMSU dorm finder, and student forum.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
